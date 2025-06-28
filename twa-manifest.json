@@ -1,0 +1,59 @@
+{
+  "packageId": "app.misterbarbershop.axiestudio",
+  "host": "misterbarbershop.vercel.app",
+  "name": "Mister Barbershop",
+  "launcherName": "MrBarber",
+  "display": "standalone",
+  "themeColor": "#F4A300",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#F4A300",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://misterbarbershop.vercel.app/Logo.jpeg",
+  "maskableIconUrl": "https://misterbarbershop.vercel.app/Logo.jpeg",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\Users\\Stefan\\Downloads\\Mister Barbershop\\project\\android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "4",
+  "appVersionCode": 4,
+  "shortcuts": [
+    {
+      "name": "Boka CITY",
+      "shortName": "CITY",
+      "url": "https://misterbarbershop.vercel.app/location/city",
+      "chosenIconUrl": "https://misterbarbershop.vercel.app/Favicon/android-icon-96x96.png"
+    },
+    {
+      "name": "Boka ASECS",
+      "shortName": "ASECS",
+      "url": "https://misterbarbershop.vercel.app/location/asecs",
+      "chosenIconUrl": "https://misterbarbershop.vercel.app/Favicon/android-icon-96x96.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://misterbarbershop.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://misterbarbershop.vercel.app/",
+  "minSdkVersion": 21,
+  "orientation": "portrait-primary",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "appVersion": "4"
+}
